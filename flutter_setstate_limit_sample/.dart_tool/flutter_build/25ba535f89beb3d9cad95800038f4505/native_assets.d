@@ -1,0 +1,1 @@
+ C:\\Workspace\\flutter_setstate_limit_sample\\.dart_tool\\flutter_build\\25ba535f89beb3d9cad95800038f4505\\native_assets.yaml: 
