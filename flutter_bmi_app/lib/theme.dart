@@ -42,6 +42,7 @@ final darkTheme = ThemeData(
     brightness: Brightness.dark,
   ),
   dividerColor: Colors.white38,
+  highlightColor: Colors.pinkAccent,
   sliderTheme: SliderThemeData(
     // Slider 지정하기 위해 추가
     thumbColor: Colors.pinkAccent,

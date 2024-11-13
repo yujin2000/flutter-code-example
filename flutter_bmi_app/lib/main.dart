@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: HomePage(),
-      themeMode: ThemeMode.light, // 테마 확인용(light, dark)
+      themeMode: ThemeMode.system, // 테마 확인용(light, dark)
       theme: lightTheme, // light
       darkTheme: darkTheme, // dark
     );
